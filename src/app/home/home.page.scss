@@ -1,4 +1,16 @@
-.welcome-card ion-img {
-  max-height: 35vh;
+.homepage-card ion-img {
+  max-height: 30vh;
   overflow: hidden;
+}
+
+.homepage-card-text {
+  max-height: 10rem;
+}
+
+a{
+  color:black;
+  text-decoration: none;
+}
+a:hover{
+  color:grey;
 }
